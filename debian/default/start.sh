@@ -18,6 +18,8 @@ tar -xf tor-browser-linux-x86_64-15.0.2.tar.xz
 
 rm -rf tor-browser-linux-x86_64-15.0.2.tar.xz 
 
+sudo chmod +x tor-browser
+
 sudo service tor start
 sudo systemctl status tor
 
