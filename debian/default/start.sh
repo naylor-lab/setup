@@ -1,9 +1,8 @@
-sudo apt install proxychains-ng tor -y
-#sudo nano /etc/proxychains.conf
-#socks4 127.0.0.1 9050
-#
+sudo apt install proxychains-ng -y
+sudo apt install tor -y
+sudo apt install neovim -y
+sudo apt install wget -y
 
-sudo proxychains4 apt install wget neovim -y
 
 #Create Lab:
 cd ~/
@@ -20,8 +19,9 @@ rm -rf tor-browser-linux-x86_64-15.0.2.tar.xz
 
 sudo chmod +x tor-browser
 
-sudo service tor start
-sudo systemctl status tor
+
+
+
 
 
 
