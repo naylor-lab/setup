@@ -19,7 +19,10 @@ tar -xf tor-browser-linux-x86_64-15.0.2.tar.xz
 rm -rf tor-browser-linux-x86_64-15.0.2.tar.xz 
 sudo chmod +x tor-browser
 
-
+#Project Environment:
+cd ~/
+mkdir Lab/Public
+cd Lab/Public
 
 
 
