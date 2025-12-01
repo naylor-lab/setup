@@ -11,7 +11,7 @@ height="320">
 
 Branches:
 
-<a href="#">Arch-Linux</a>
+<a href="https://github.com/naylor-lab/setup/blob/Arch-Linux/README.md">Arch-Linux</a>
 
 <a href="#">Alpine Linux</a>
 
