@@ -9,15 +9,3 @@ height="320">
 </p>
 
 
-Branches:
-
-<a href="#">Arch-Linux</a>
-
-<a href="#">Alpine Linux</a>
-
-<a href="#">Debian</a>
-
-<a href="#">Kali-Linux</a>
-
-<a href="#">Termux</a>
-
