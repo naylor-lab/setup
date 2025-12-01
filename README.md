@@ -15,7 +15,7 @@ Branches:
 
 <a href="#">Alpine Linux</a>
 
-<a href="#">Debian</a>
+<a href="https://github.com/naylor-lab/setup/tree/Debian-Linux">Debian</a>
 
 <a href="#">Kali-Linux</a>
 
